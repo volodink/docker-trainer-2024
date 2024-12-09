@@ -1,5 +1,6 @@
 cpp/app/bin
 build
+java/helloworld/.mvn
 
 # Compiled class file
 *.class
