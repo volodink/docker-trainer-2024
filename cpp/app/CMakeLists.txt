@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
 
-project(main)
+project(prog)
 
-add_executable(main src/main.cpp)
+add_executable(prog src/main.cpp)
