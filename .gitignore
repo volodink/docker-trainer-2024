@@ -1,4 +1,5 @@
 cpp/app/bin
+build
 
 # Compiled class file
 *.class
